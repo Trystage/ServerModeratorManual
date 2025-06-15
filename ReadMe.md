@@ -5,3 +5,4 @@
 相关文件:  
 [玩家行为规范与处罚条例](/PlayerRules.md)  
 [视频创作者信息,需求和申请](/ContentCreator.md)  
+[TBW常用管理指令](/Commands.md)  
